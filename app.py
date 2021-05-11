@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+@st.cache(allow_output_mutation=True)
 import streamlit as st
 import joblib 
 import pandas as pd
