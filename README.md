@@ -1,6 +1,8 @@
 **Diabetes Prediction App Open in Streamlit**
 
 Streamlit Web App to predict the onset of diabetes based on diagnostic measures.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/)
+
 
 **Data**
 
