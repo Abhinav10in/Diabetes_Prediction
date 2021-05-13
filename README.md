@@ -1,4 +1,4 @@
-# Diabetes Prediction App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Abhinav10in/Diabetes_Prediction/blob/main/app.py)
+# Diabetes Prediction App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Abhinav10in/Diabetes_Prediction/main/app.py)
 
 
 
